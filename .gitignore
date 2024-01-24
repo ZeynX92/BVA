@@ -161,4 +161,4 @@ cython_debug/
 
 
 /notes/
-*.env
+src/dev.env
